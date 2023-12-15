@@ -4,8 +4,10 @@ To run project files
 
 - Download the .ipynb files from the repository
 - Download the main dataset from the following link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+- Download the secondary dataset from the following link: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
 - Ensure main dataset is titled "creditcard.csv"
-- Download the secondary dataset from the following link: https://www.kaggle.com/datasets/kartik2112/fraud-detection
 - Ensure secondary dataset is titled "creditcard2.csv"
 - Ensure all downloaded files are in the same directory locally on your computer
-- Open .ipynb files in Jupyter Notebook and run
+- Open .ipynb files in Jupyter Notebook or Google Collab and run
+
+Note: It may be the case that you are missing some of the libraries used for this project in your development environment. Ensure all libraries are properly downloaded prior to running the code for the project to prevent any errors. The models will take some time to train after the code is run.
